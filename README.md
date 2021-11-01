@@ -34,6 +34,6 @@ We value messages from the community very much, so please be patient.
 All issues submited here are carefully checked by Numbers' product team.
 
 IF you can't wait for the official response, 
-you may consider joining the #community-support channel on our [Discord](https://link.numbersprotocol.io/discord) and ask if the community may help. 
+you may consider joining the #community channel on our [Discord](https://link.numbersprotocol.io/discord) and ask if the community may help. 
 
 For URGRNT issues that related to account and personal information, please contact service@numbersprotocol.io
