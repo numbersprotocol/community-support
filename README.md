@@ -1,6 +1,6 @@
 # community-support
 
-This is a channel for Numbers community to report issues, ask questions or open feature requests. 
+This is a channel for Numbers community to report issues, ask questions or open feature requests. If you are looking for more details about Numbers Protocol, such as Overview or Technical documents, please visit [our Gitbook site](https://numbersprotocol.gitbook.io/about/). 
 
 ## Before starting
 
