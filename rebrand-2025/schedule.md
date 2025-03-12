@@ -10,7 +10,7 @@ Numbers Protocol is undergoing a comprehensive rebrand to position itself as the
 
 3. **Leverage Key Industry Reports**: Incorporate insights from reports like NIST AI 100-4 to position Numbers Protocol as aligned with globally recognized best practices.
 
-## Project Timeline (16 Weeks)
+## Project Timeline (16 Weeks, TBD)
 
 ```mermaid
 flowchart TB
